@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="400" viewBox="0 0 600 400">
+  <rect width="600" height="400" fill="#f5f5f5"/>
+  <text x="300" y="200" font-family="Arial" font-size="24" text-anchor="middle" fill="#333333">Crowdfunding Projects</text>
+  <g transform="translate(240, 230)">
+    <rect x="0" y="0" width="120" height="20" rx="5" fill="#4CAF50"/>
+    <rect x="0" y="30" width="80" height="20" rx="5" fill="#4CAF50" opacity="0.8"/>
+    <rect x="0" y="60" width="100" height="20" rx="5" fill="#4CAF50" opacity="0.6"/>
+  </g>
+  <g transform="translate(200, 140)">
+    <circle cx="20" cy="20" r="15" fill="#2196F3"/>
+    <circle cx="180" cy="20" r="15" fill="#2196F3"/>
+    <circle cx="100" cy="20" r="15" fill="#2196F3" opacity="0.7"/>
+  </g>
+</svg>
